@@ -1,4 +1,4 @@
-# Tensor
+# MiniTensor
 
 Implementation of a simple PyTorch-esque 1D tensor in c
 
@@ -8,3 +8,4 @@ Can perform `.view` operation
 ## To-Do
 - Improve `.view()` operation, currently it reshapes the tensor similar to `.reshape` method in `NumPy`
 - Add operations such as addition, subtraction, multiplication, division
+- Add Python interface that works on top of `c` source code.
