@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "stensor.h" // Include the header file
+#include "minitensor.h" // Include the header file
 
 int main() {
     // Create a tensor of size 5

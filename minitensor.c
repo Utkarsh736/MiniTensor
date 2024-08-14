@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "stensor.h"
+#include "minitensor.h"
 
 // Step 1: Create the Tensor Structure
 
@@ -10,7 +10,7 @@
 //     float* data; // Pointer to the tensor's data
 //     size_t size; // Number of elements in the tensor
 // } Tensor;
-// ****Imported from header file "stensor.h"****
+// ****Imported from header file "minitensor.h"****
 
 // Step 2: Create the Tensor
 

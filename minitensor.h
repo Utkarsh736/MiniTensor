@@ -1,5 +1,5 @@
-#ifndef STENSOR_H
-#define STENSOR_H
+#ifndef MINITENSOR_H
+#define MINITENSOR_H
 
 #include <stddef.h>
 
